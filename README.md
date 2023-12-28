@@ -50,7 +50,12 @@ You can visit our app here -> <a href="https://bc15-w8-project-front-end-fully-s
 
 ## ✍️ Authors <a name = "authors"></a>
 
+- https://www.linkedin.com/in/joe-walsh-859b37289/ - Joe Walsh
+- https://www.linkedin.com/in/christener19/ - Christener Leigh
 - https://www.linkedin.com/in/fyza-chishty/- Fyza Chishty
+- https://www.linkedin.com/in/horia-omar/ - Horia Omar
+- https://www.linkedin.com/in/george-gordon-70aa3a82/ - George Gordon
+- https://www.linkedin.com/in/richard-quinlan-8a9a60288/ - Richared Quinlan
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
 
