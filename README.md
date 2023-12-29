@@ -56,11 +56,11 @@ We created this project under one repo, splitting back-end and front-end into 2 
 
 In the next few days...
 
-Addressing  those scalablity concerns, we would extend the cards and build in the recipe, make a more complete app
+Addressing the dependability concern, we would extend the cards and build in the recipe, make a more complete app.
 
 In the next few weeks...
 
-Expand the database inclusive of more dietary choices i.e. breakfast/desserts and requirements. Creating variety, gives users choice and more reason to keep the user coming back to the app
+Expand the database inclusive of more dietary choices i.e. breakfast/desserts and requirements. Creating variety, gives users choice and more reason to keep the user coming back to the app.
 
 Add another CRUD function, that would align with another feature e.g. allowing the user to edit a recipe to tailor it to their requirements and preferences.
 
