@@ -38,7 +38,7 @@ This a problem because it can have greater implications to their health; mentall
 
 - This was all built in a week, with only about 2 days to code, we have boiled down this app to it's very essence, henceforth large features such as a login were not included.
 - No web frameworks, we're used to build this; it is built with vanilla HTML5, JS & CSS. Scalability is extremely limited.
-- In it's current state, the app depends on an external site.
+- In it's current state, the app depends on an external site. This depedency means if that site was to go down then our app would be unusuable.
 
 ## 💻 Setting Up A Local Enivronment <a name = "getting_started"></a>
 
