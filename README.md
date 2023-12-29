@@ -34,7 +34,7 @@ This a problem because it can have greater implications to their health; mentall
 
 Team discussions talking about our progress on the bootcamp & experience sharing problems we face and it eventually lead down the path talking about food, how that one hour lunch goes quickly when we have to make our lunch too, a team member stated they often have cereal as quick means to an end. We kind of came into agreement that we all tend to eat not so great since the start of this course along with the other problems. And this lead to the theory we wanted to test out with other bootcampers. Do they feel the same way?
 
-Our User Research Lead us to:
+Our User Research lead us to:
 
 - Majority believe a healthy, balanced meal will leave them feeling ready to learn.
 - Simple, easy recipes and within minutes 15 minutes
