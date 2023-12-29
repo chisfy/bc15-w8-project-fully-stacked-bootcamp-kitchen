@@ -50,8 +50,7 @@ Which ultimately proved diet has changed since the boot camp - so how can we get
 
 ## 💻 Setting Up A Local Enivronment <a name = "getting_started"></a>
 
-We came to an agreement to have weekly deploment aligned with each sprint, a production branch called "dev" acted as production branch before each deploment to ensure the app works and looks as intended. This was a vital step into detecting any errors, bugs and ultimately gaining feedback. Using Next as our React App, we had a development server that helped with 
-the build that was accessed using "npm run dev" in the terminal (a default script in the package.json to run Next dev).
+We created this project under one repo, splitting back-end and front-end into 2 separate folders. Using package.JSON to set-up scripts to run unit testing and playwright. As this was a vanilla project, we used live preview and extension from VSCode to view the project and inspecting the page to adjust any changes to the front-end build.
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 
