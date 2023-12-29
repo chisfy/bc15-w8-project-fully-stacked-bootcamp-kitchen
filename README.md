@@ -90,6 +90,14 @@ You can visit our app here -> <a href="https://bc15-w8-project-front-end-fully-s
 
 ## 🏫 Lessons Learned <a name = "lessons_learned"></a>
 
+- This was a great project to understand project structure, and how to use GitHub a lot more!
+- Good planning, teamwork and organisation in general goes a long way and then the code basically writes itself.
+- This project further solidified knowledge of JS, semantic HTML & CSS!
+- BootStrap is a great way to implement CSS styling, a handy tool in the limited time that we had.
+- Understating about the architecture of a full-stack app starting with a the visual aspect.
+- Playwright testing - check for the box rather than the content. We don't want brittle tests!
+- Energisers are important for morale and can help with overcoming problems!
+
 ## ✍️ Authors <a name = "authors"></a>
 
 - https://www.linkedin.com/in/joe-walsh-859b37289/ - Joe Walsh
