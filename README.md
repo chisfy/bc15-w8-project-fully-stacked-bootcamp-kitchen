@@ -9,7 +9,7 @@
 ---
 
 <p align="center"> 
-An all encompassing app for boot-campers to use for their food needs. It aims to take the mental load of decision making and time it takes to create meals away and give them back more time to utilise elsewhere.
+A desktop and mobile friendly app for boot-campers to use for their food needs. It aims to take the mental load of decision making and time it takes to create meals away and give them back more time to utilise elsewhere.
 </p>
 
 ## 📝 Table of Contents
@@ -54,7 +54,27 @@ We created this project under one repo, splitting back-end and front-end into 2 
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 
+In the next few days...
 
+Addressing  those scalablity concerns, we would extend the cards and build in the recipe, make a more complete app
+
+In the next few weeks...
+
+Expand the database inclusive of more dietary choices i.e. breakfast/desserts and requirements. Creating variety, gives users choice and more reason to keep the user coming back to the app
+
+Add another CRUD function, that would align with another feature e.g. allowing the user to edit a recipe to tailor it to their requirements and preferences.
+
+Continue testing - cover error handling and more UI & Unit testing.
+
+In the near future...
+
+We want to implement the following features, to make this app into a hub for all user needs:
+
+Account for Login
+Search Filters to get users preferences by cuisine, allergies, protein choice
+Cart feature to turn into a meal prep plan that would show the list of ingredients and quantity for the week.
+Favourites section
+Community area, to share pictures, meal idea, comments for quick substitutes and interaction between users.
 
 ## 🏁 Visit Our Website <a name = "vist_our_website"></a>
 
