@@ -82,7 +82,7 @@ You can visit our app here -> <a href="https://bc15-w8-project-front-end-fully-s
 
 ## ⛏️ Tech Stack <a name = "tech_stack"></a>
 
-- [JavaScript](https://www.javascript.com/)) - Coding Language
+- [JavaScript](https://www.javascript.com/) - Coding Language
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 - [BootStrap](https://getbootstrap.com/) - Styling
 - [Plawright](https://playwright.dev/) - Testing
