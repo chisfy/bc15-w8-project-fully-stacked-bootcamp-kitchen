@@ -116,4 +116,6 @@ Big thank you to the School of Code for all the support and guidance!
 
 ## 🎥 Demo <a name = "demo"></a>
 
+<p align="center">Full Demo -> <a href="https://www.youtube.com/watch?v=jeiKJ8VyNKQ">Watch it here</a></p>
+
 <video align="center" src=""/>
