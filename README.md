@@ -116,6 +116,9 @@ Big thank you to the School of Code for all the support and guidance!
 
 ## 🎥 Demo <a name = "demo"></a>
 
+<video align="center" src="https://github.com/chisfy/mid-week-project-bootcamp-kitchen/assets/137444313/7b4c9924-5efc-4116-8960-172fa29da3c6" />
+
+
 <p align="center">Full Demo -> <a href="https://www.youtube.com/watch?v=jeiKJ8VyNKQ">Watch it here</a></p>
 
 <video align="center" src=""/>
